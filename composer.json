@@ -1,0 +1,27 @@
+{
+    "name": "bizbink/sociallinks",
+    "type": "phpbb-extension",
+    "description": "",
+    "homepage": "https://github.com/bizbink/phpbb-extension-bizbink-sociallinks",
+    "version": "1.0.0",
+    "time": "2013-11-05",
+    "license": "GPL-2.0",
+    "authors": [{
+            "name": "Matthew Vanderende",
+            "email": "matthew@vanderende.ca",
+            "homepage": "http://vanderende.ca",
+            "role": "Lead Developer"
+        }],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "bizbink Community Social Links Extension",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.0-RC2,<3.2.*@dev"
+        }
+    }
+}

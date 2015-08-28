@@ -1,0 +1,8 @@
+services:
+    bizbink.sociallinks.listener:
+        class: bizbink\sociallinks\event\main_listener
+        arguments:
+            - @config
+            - @template
+        tags:
+            - { name: event.listener }
