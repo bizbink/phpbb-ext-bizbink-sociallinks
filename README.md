@@ -1,4 +1,6 @@
 # phpbb-ext-bizbink-sociallinks
+
+[![Join the chat at https://gitter.im/bizbink/phpbb-ext-bizbink-sociallinks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bizbink/phpbb-ext-bizbink-sociallinks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Social links extension for phpBB 3.1
 
 ## Install
